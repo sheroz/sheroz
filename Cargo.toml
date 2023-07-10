@@ -1,0 +1,14 @@
+[package]
+name = "sheroz"
+version = "0.1.0"
+edition = "2021"
+authors = ["Sheroz Khaydarov"]
+description = "A collection of samples"
+documentation = "https://docs.rs/sheroz"
+readme = "README.md"
+repository = "https://github.com/sheroz/sheroz"
+license = "MIT"
+
+[dependencies]
+tick_counter = "0.3"
+cipher_magma = "0.3"
