@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 📫 How to reach me: [sheroz.com](http://sheroz.com)
+- 📫 How to reach me: [http://sheroz.com/about](http://sheroz.com/about)
 
 <!--
 **sheroz/sheroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
