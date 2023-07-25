@@ -1,6 +1,5 @@
-# Hi there 👋
+Fully Engaged, Passionate, and Focused on Rust-Based Technologies.
 
-I am focused on and passionate about Rust-based technologies.
 - 📫 How to reach me: [http://sheroz.com/about](http://sheroz.com/about)
 
 <!--
