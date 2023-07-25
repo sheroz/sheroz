@@ -1,4 +1,4 @@
-Fully Engaged, Passionate, and Focused on Rust-Based Technologies.
+Passionate and Focused on Rust-Based Technologies.
 
 - 📫 How to reach me: [http://sheroz.com/about](http://sheroz.com/about)
 
