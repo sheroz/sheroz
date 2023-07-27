@@ -1,5 +1,4 @@
-Passionate and Focused on Rust-Based Technologies.
-
+# Hi there 👋
 - 📫 How to reach me: [http://sheroz.com/about](http://sheroz.com/about)
 
 <!--
