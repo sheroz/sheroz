@@ -7,9 +7,7 @@
 
 The octagram ![octagram](https://sheroz.com/theme/favicon/16.png) symbolizes balance, harmony, order, unity, creation, calmness, and freedom.
 
-It reminds me of my homeland.
-
-Unicode Character: U+06DE
+It reminds me of my homeland. Unicode Character: U+06DE
 
 <!--
 **sheroz/sheroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
