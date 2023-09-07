@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there &nbsp; <img src="ferris-welcome.png" width="64">
 - 📫 How to reach me: [http://sheroz.com/about](http://sheroz.com/about)
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0e76a8&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/sheroz-khaydarov/)
