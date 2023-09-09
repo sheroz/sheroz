@@ -4,10 +4,10 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0e76a8&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/sheroz-khaydarov/)
 
 ---
-
-The octagram ![octagram](https://sheroz.com/theme/favicon/16.png) symbolizes balance, harmony, order, unity, creation, calmness, and freedom. Unicode Character: U+06DE
-
 <!--
+
+The octagram ![octagram](https://sheroz.com/theme/favicon/16.png) (Unicode: U+06DE) symbolizes balance, harmony, order, unity, creation, calmness, and freedom.
+
 **sheroz/sheroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
