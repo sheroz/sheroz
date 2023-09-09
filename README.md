@@ -3,7 +3,6 @@
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0e76a8&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/sheroz-khaydarov/)
 
----
 <!--
 
 The octagram ![octagram](https://sheroz.com/theme/favicon/16.png) (Unicode: U+06DE) symbolizes balance, harmony, order, unity, creation, calmness, and freedom.
